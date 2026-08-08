@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "index.html#objective",
+    "href": "index.html#objective",
+    "title": "Jersey City Analytics",
+    "section": "Objective",
+    "text": "Objective\n📅 Temporal patterns — when people ride\n👥 User behavior — members vs. casual riders\n🚲 Trip characteristics — duration and distance\n📍 Spatial patterns — popular stations, routes, and neighborhoods\n🌦️ Weather impact — how weather relates to ridership\n📊 Actionable insights — support better bike-sharing planning"
+  },
+  {
+    "objectID": "index.html#tech-stacks",
+    "href": "index.html#tech-stacks",
+    "title": "Jersey City Analytics",
+    "section": "Tech stacks",
+    "text": "Tech stacks\n\nCSV data\nAPI\nPython pandas, plotly"
+  },
+  {
+    "objectID": "index.html#dataset",
+    "href": "index.html#dataset",
+    "title": "Jersey City Analytics",
+    "section": "Dataset",
+    "text": "Dataset\n\nCiti Bike trip data (2025)\nJersey City weather data\nJersey City neighborhoods"
+  },
+  {
+    "objectID": "index.html#data-visualisation",
+    "href": "index.html#data-visualisation",
+    "title": "Jersey City Analytics",
+    "section": "Data Visualisation ???",
+    "text": "Data Visualisation ???"
+  },
+  {
+    "objectID": "index.html#number-of-rides-per-season",
+    "href": "index.html#number-of-rides-per-season",
+    "title": "Jersey City Analytics",
+    "section": "Number of Rides per Season",
+    "text": "Number of Rides per Season"
+  },
+  {
+    "objectID": "index.html#number-of-rides-per-month",
+    "href": "index.html#number-of-rides-per-month",
+    "title": "Jersey City Analytics",
+    "section": "Number of Rides per Month",
+    "text": "Number of Rides per Month"
+  },
+  {
+    "objectID": "index.html#top-month",
+    "href": "index.html#top-month",
+    "title": "Jersey City Analytics",
+    "section": "Top Month",
+    "text": "Top Month"
+  },
+  {
+    "objectID": "index.html#highest-and-lowest-days",
+    "href": "index.html#highest-and-lowest-days",
+    "title": "Jersey City Analytics",
+    "section": "Highest and Lowest Days",
+    "text": "Highest and Lowest Days"
+  },
+  {
+    "objectID": "index.html#number-of-rides-per-time-of-day",
+    "href": "index.html#number-of-rides-per-time-of-day",
+    "title": "Jersey City Analytics",
+    "section": "Number of Rides per Time of Day",
+    "text": "Number of Rides per Time of Day"
+  },
+  {
+    "objectID": "index.html#daily-rides-vs-average-temperature",
+    "href": "index.html#daily-rides-vs-average-temperature",
+    "title": "Jersey City Analytics",
+    "section": "Daily Rides vs Average Temperature",
+    "text": "Daily Rides vs Average Temperature"
+  },
+  {
+    "objectID": "index.html#daily-rides-vs-maximum-wind-speed",
+    "href": "index.html#daily-rides-vs-maximum-wind-speed",
+    "title": "Jersey City Analytics",
+    "section": "Daily Rides vs Maximum Wind Speed",
+    "text": "Daily Rides vs Maximum Wind Speed"
+  },
+  {
+    "objectID": "index.html#daily-rides-vs-precipitation",
+    "href": "index.html#daily-rides-vs-precipitation",
+    "title": "Jersey City Analytics",
+    "section": "Daily Rides vs Precipitation",
+    "text": "Daily Rides vs Precipitation"
+  },
+  {
+    "objectID": "index.html#daily-rides-vs.-temperature-and-wind-speed",
+    "href": "index.html#daily-rides-vs.-temperature-and-wind-speed",
+    "title": "Jersey City Analytics",
+    "section": "Daily Rides vs. Temperature and Wind Speed",
+    "text": "Daily Rides vs. Temperature and Wind Speed"
+  },
+  {
+    "objectID": "index.html#daily-rides-vs.-temperature-and-precipitation",
+    "href": "index.html#daily-rides-vs.-temperature-and-precipitation",
+    "title": "Jersey City Analytics",
+    "section": "Daily Rides vs. Temperature and Precipitation",
+    "text": "Daily Rides vs. Temperature and Precipitation"
+  },
+  {
+    "objectID": "index.html#daily-rides-and-daily-average-temperature",
+    "href": "index.html#daily-rides-and-daily-average-temperature",
+    "title": "Jersey City Analytics",
+    "section": "Daily Rides and Daily Average Temperature",
+    "text": "Daily Rides and Daily Average Temperature"
+  },
+  {
+    "objectID": "index.html#top-10-start-stations-by-number-of-departures",
+    "href": "index.html#top-10-start-stations-by-number-of-departures",
+    "title": "Jersey City Analytics",
+    "section": "Top 10 Start Stations by Number of Departures",
+    "text": "Top 10 Start Stations by Number of Departures"
+  },
+  {
+    "objectID": "index.html#top-10-end-stations-by-number-of-arrivals",
+    "href": "index.html#top-10-end-stations-by-number-of-arrivals",
+    "title": "Jersey City Analytics",
+    "section": "Top 10 End Stations by Number of Arrivals",
+    "text": "Top 10 End Stations by Number of Arrivals"
+  },
+  {
+    "objectID": "index.html#top-lines",
+    "href": "index.html#top-lines",
+    "title": "Jersey City Analytics",
+    "section": "Top Lines",
+    "text": "Top Lines"
+  },
+  {
+    "objectID": "index.html#station-point",
+    "href": "index.html#station-point",
+    "title": "Jersey City Analytics",
+    "section": "Station Point",
+    "text": "Station Point"
+  },
+  {
+    "objectID": "index.html#total-activity",
+    "href": "index.html#total-activity",
+    "title": "Jersey City Analytics",
+    "section": "Total Activity",
+    "text": "Total Activity"
+  },
+  {
+    "objectID": "index.html#station-count",
+    "href": "index.html#station-count",
+    "title": "Jersey City Analytics",
+    "section": "Station Count",
+    "text": "Station Count"
+  },
+  {
+    "objectID": "index.html#average-activity-per-station",
+    "href": "index.html#average-activity-per-station",
+    "title": "Jersey City Analytics",
+    "section": "Average Activity per Station",
+    "text": "Average Activity per Station"
+  },
+  {
+    "objectID": "index.html#total-departures",
+    "href": "index.html#total-departures",
+    "title": "Jersey City Analytics",
+    "section": "Total Departures",
+    "text": "Total Departures"
+  },
+  {
+    "objectID": "index.html#total-arrivals",
+    "href": "index.html#total-arrivals",
+    "title": "Jersey City Analytics",
+    "section": "Total Arrivals",
+    "text": "Total Arrivals"
+  }
+]
