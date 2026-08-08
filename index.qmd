@@ -1,9 +1,9 @@
 ---
-title: "Artashes's presentation"
+title: "Jersey City Analytics"
 # subtitle: "My Visuan"
-author: "Karen Hovhannisyan"
+author: "Artashes Hovhannisyan"
 date: last-modified
-image_path: "img/"
+
 format:
   revealjs: 
     touch: true
@@ -12,7 +12,7 @@ format:
     preview-links: auto
     width: 1500
     transition: slide
-    logo: img/favicon.png
+    logo: img/aca_favicon.png
     include-in-header:
       - text: |
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
@@ -26,21 +26,21 @@ format:
           </style>
     
 ---
+
 ## Objective {.smaller}
-- Transform data into a **strategic banking asset**  
-- Eliminate **data silos** and enable **integrated decision-making**  
-- Build a **scalable, governed, and AI-ready organization**
-## The Core Problem: Data Silos {.smaller}
-- **Fragmented systems across:**
-  - Core banking  
-  - CRM  
-  - Risk  
-  - Marketing  
-  - Other Sources
-- **Consequences:**
-  - Inconsistent KPIs  
-  - Slow decision-making  
-  - Poor customer experience  
-  - Limited AI capability 
-  - Missing Single Source of Truth 
-## Data Silos in Banking {.smaller}
+
+- 
+
+---
+
+## Dataset {.smaller}
+
+- Citi Bike trip data (2025)
+- Jersey City weather data
+- Jersey City neighborhoods
+
+
+## Data Visualisations  {.smaller}
+
+** Daily Average Temperature Over Time **
+

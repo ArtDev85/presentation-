@@ -130,14 +130,14 @@ docs/
 # Celery stuff
 celerybeat-schedule
 celerybeat.pid
-
+.DS_Store
 # Redis
 *.rdb
 *.aof
 *.pid
 
 # RabbitMQ
-mnesia/
+mnesia/ 
 rabbitmq/
 rabbitmq-data/
 
