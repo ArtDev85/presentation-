@@ -23,15 +23,33 @@ format:
             .muted { opacity: .8 }
             .pill { border-radius: 10px; }
             .circle { border-radius: 50%; }
+            .medium { font-size: 100%; }
           </style>
     
 ---
 
 ## Objective {.smaller}
 
-- 
+
+📅 Temporal patterns — when people ride
+
+👥 User behavior — members vs. casual riders
+
+🚲 Trip characteristics — duration and distance
+
+📍 Spatial patterns — popular stations, routes, and neighborhoods
+
+🌦️ Weather impact — how weather relates to ridership
+
+📊 Actionable insights — support better bike-sharing planning
 
 ---
+
+## Tech stacks {.smaller}
+
+- CSV data 
+- API
+- Python pandas, plotly
 
 ## Dataset {.smaller}
 
@@ -39,8 +57,95 @@ format:
 - Jersey City weather data
 - Jersey City neighborhoods
 
+## Data Visualisation ???  {.smaller}
 
-## Data Visualisations  {.smaller}
+![](img/citibike_dock.jpg){width=100%}
 
-** Daily Average Temperature Over Time **
 
+## Number of Rides per Season  {.smaller}
+
+
+![](img/number_of_rides_per_season.png){width=80%}
+
+
+## Number of Rides per Month  {.smaller}
+
+
+![](img/number_of_rides_per_month.png){width=80%}
+
+
+## Top Month  {.smaller}
+
+![](img/top_month.png){width=80%}
+
+## Highest and Lowest Days  {.smaller}
+
+![](img/dow.png){width=80%}
+
+## Number of Rides per Time of Day  {.smaller}
+
+![](img/tod.png){width=80%}
+
+## Daily Rides vs Average Temperature  {.smaller}
+
+![](img/linear_rg_temp.png){width=80%}
+
+
+## Daily Rides vs Maximum Wind Speed  {.smaller}
+
+![](img/linear_rg_wind.png){width=80%}
+
+## Daily Rides vs Precipitation {.smaller}
+
+![](img/linear_rg_prec.png){width=80%}
+
+## Daily Rides vs. Temperature and Wind Speed {.smaller}
+
+![](img/daily_rides_vs_TW.png){width=80%}
+
+## Daily Rides vs. Temperature and Precipitation {.smaller}
+
+![](img/daily_rides_vs_TP.png){width=80%}
+
+## Daily Rides and Daily Average Temperature {.smaller}
+
+![](img/daily_rides_DAT.png){width=80%}
+
+## Top 10 Start Stations by Number of Departures {.smaller}
+
+![](img/number_of_departures.png){width=80%}
+
+## Top 10 End Stations by Number of Arrivals {.smaller}
+
+![](img/number_of_arrivals.png){width=80%}
+
+
+## Top Lines {.smaller}
+
+![](img/line_map.png){width=80%}
+
+## Station Point {.smaller}
+
+![](img/station_point_map.png){width=80%}
+
+## Total Activity {.smaller}
+
+![](img/total_activity_map.png){width=80%}
+
+## Station Count {.smaller}
+
+![](img/station_count_map.png){width=80%}
+
+
+## Average Activity per Station {.smaller}
+
+![](img/avg_activity_map.png){width=80%}
+
+
+## Total Departures {.smaller}
+
+![](img/total_departures.png){width=80%}
+
+## Total Arrivals {.smaller}
+
+![](img/total_arrivals.png){width=80%}
