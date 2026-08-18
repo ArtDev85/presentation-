@@ -11,7 +11,7 @@
     "href": "index.html#tech-stacks",
     "title": "Citi Bike Analytics in Jersey city",
     "section": "Tech stacks",
-    "text": "Tech stacks\n\nCSV data\nAPI\nPython pandas, plotly"
+    "text": "Tech stacks\n\nCSV data\nOpen-Meteo API\nPython pandas, plotly, Geopandas + Folium"
   },
   {
     "objectID": "index.html#dataset",
@@ -42,27 +42,6 @@
     "text": "Number of Rides per Month"
   },
   {
-    "objectID": "index.html#top-month",
-    "href": "index.html#top-month",
-    "title": "Citi Bike Analytics in Jersey city",
-    "section": "Top Month",
-    "text": "Top Month"
-  },
-  {
-    "objectID": "index.html#highest-and-lowest-days",
-    "href": "index.html#highest-and-lowest-days",
-    "title": "Citi Bike Analytics in Jersey city",
-    "section": "Highest and Lowest Days",
-    "text": "Highest and Lowest Days"
-  },
-  {
-    "objectID": "index.html#number-of-rides-per-time-of-day",
-    "href": "index.html#number-of-rides-per-time-of-day",
-    "title": "Citi Bike Analytics in Jersey city",
-    "section": "Number of Rides per Time of Day",
-    "text": "Number of Rides per Time of Day"
-  },
-  {
     "objectID": "index.html#daily-rides-vs-average-temperature",
     "href": "index.html#daily-rides-vs-average-temperature",
     "title": "Citi Bike Analytics in Jersey city",
@@ -82,20 +61,6 @@
     "title": "Citi Bike Analytics in Jersey city",
     "section": "Daily Rides vs Precipitation",
     "text": "Daily Rides vs Precipitation"
-  },
-  {
-    "objectID": "index.html#daily-rides-vs.-temperature-and-wind-speed",
-    "href": "index.html#daily-rides-vs.-temperature-and-wind-speed",
-    "title": "Citi Bike Analytics in Jersey city",
-    "section": "Daily Rides vs. Temperature and Wind Speed",
-    "text": "Daily Rides vs. Temperature and Wind Speed"
-  },
-  {
-    "objectID": "index.html#daily-rides-vs.-temperature-and-precipitation",
-    "href": "index.html#daily-rides-vs.-temperature-and-precipitation",
-    "title": "Citi Bike Analytics in Jersey city",
-    "section": "Daily Rides vs. Temperature and Precipitation",
-    "text": "Daily Rides vs. Temperature and Precipitation"
   },
   {
     "objectID": "index.html#daily-rides-and-daily-average-temperature",
