@@ -48,8 +48,8 @@ format:
 ## Tech stacks {.smaller}
 
 - CSV data 
-- API
-- Python pandas, plotly
+- Open-Meteo API
+- Python pandas, plotly, Geopandas + Folium
 
 ## Dataset {.smaller}
 
@@ -74,17 +74,6 @@ format:
 ![](img/number_of_rides_per_month.png){width=80%}
 
 
-## Top Month  {.smaller}
-
-![](img/top_month.png){width=80%}
-
-## Highest and Lowest Days  {.smaller}
-
-![](img/dow.png){width=80%}
-
-## Number of Rides per Time of Day  {.smaller}
-
-![](img/tod.png){width=80%}
 
 ## Daily Rides vs Average Temperature  {.smaller}
 
@@ -99,13 +88,6 @@ format:
 
 ![](img/linear_rg_prec.png){width=80%}
 
-## Daily Rides vs. Temperature and Wind Speed {.smaller}
-
-![](img/daily_rides_vs_TW.png){width=80%}
-
-## Daily Rides vs. Temperature and Precipitation {.smaller}
-
-![](img/daily_rides_vs_TP.png){width=80%}
 
 ## Daily Rides and Daily Average Temperature {.smaller}
 
